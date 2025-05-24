@@ -1,0 +1,37 @@
+{
+  "common": {
+    "back": "ተመለስ",
+    "save": "አስቀምጥ",
+    "cancel": "ሰርዝ",
+    "loading": "በመጫን ላይ...",
+    "success": "ተሳክቷል",
+    "error": "ስህተት",
+    "tryAgain": "እባክዎ እንደገና ይሞክሩ"
+  },
+  "profile": {
+    "studentId": "የተማሪ መታወቂያ",
+    "level": "ደረጃ",
+    "memberSince": "አባል ከ",
+    "stream": "ዘርፍ",
+    "language": "ቋንቋ"
+  },
+  "streams": {
+    "title": "ዘርፍ ይምረጡ",
+    "description": "የእርስዎ ዘርፍ በመተግበሪያው ውስጥ የሚያዩትን ትምህርቶች እና ይዘቶች ይወስናል።",
+    "natural": "የተፈጥሮ ሳይንስ",
+    "naturalDescription": "ፊዚክስ፣ ኬሚስትሪ፣ ባዮሎጂ እና ሒሳብ",
+    "social": "ማህበራዊ ሳይንስ",
+    "socialDescription": "ታሪክ፣ ጂኦግራፊ፣ ኢኮኖሚክስ እና ቢዝነስ",
+    "updating": "ዘርፍ በማዘመን ላይ..."
+  },
+  "languages": {
+    "title": "ቋንቋ ይምረጡ",
+    "description": "ለመተግበሪያው ኢንተርፌስ የሚፈልጉትን ቋንቋ ይምረጡ።",
+    "english": "እንግሊዘኛ",
+    "englishDescription": "ለሁሉም የመተግበሪያ ይዘቶች እንግሊዘኛን ይጠቀሙ",
+    "amharic": "አማርኛ",
+    "amharicDescription": "ለሁሉም የመተግበሪያ ይዘቶች አማርኛን ይጠቀሙ",
+    "changing": "ቋንቋ በመቀየር ላይ...",
+    "note": "ማሳሰቢያ፡ አንዳንድ ይዘቶች በእንግሊዘኛ ብቻ ሊገኙ ይችላሉ።"
+  }
+}
